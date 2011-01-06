@@ -1,0 +1,11 @@
+throt
+-----
+
+Throttles data flow through a pipe (stdin -> stdout).
+
+Usage:
+    throt RATE
+
+RATE may be a float followed by (case-insensitive): K, M, G, T
+
+throt is distributed under the terms of the GNU General Public License, see LICENSE for details.
